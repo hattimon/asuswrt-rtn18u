@@ -11,7 +11,9 @@ use of these licensed components on unlicensed hardware.
 _________
 SmartWAN Manager
 
-Local Docker panel for SmartWAN, ASUS Dual WAN, VPN, DMZ, failover monitoring, diagnostics, backups, and router automation over SSH.   
+Local Docker panel for SmartWAN, ASUS Dual WAN, VPN, DMZ, failover monitoring, diagnostics, backups, and router automation over SSH.  
+
 ![Aurelka WAN status legend](https://github.com/hattimon/SmartWAN-Manager/tree/main/docs/Panel_img.png)   
+
 [https://hattimon.github.io/SmartWAN-Manager](https://hattimon.github.io/SmartWAN-Manager)    
 [https://github.com/hattimon/SmartWAN-Manager](https://github.com/hattimon/SmartWAN-Manager)
