@@ -4,8 +4,6 @@
 SmartWAN Manager is a local Docker-based control panel for SmartWAN and ASUS Dual WAN environments.   
 It provides tools for VPN and DMZ management, failover monitoring, diagnostics, backups, and router automation over SSH.
 
-![SmartWAN Manager panel screenshot](https://raw.githubusercontent.com/hattimon/SmartWAN-Manager/main/docs/Panel_img.png)  
-
 ![SmartWAN Manager panel screenshot](https://github.com/hattimon/SmartWAN-Manager/raw/main/docs/Panel_img.png)  
 
 ## Links
