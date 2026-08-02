@@ -1,8 +1,13 @@
 
+# TRY ALSO:
+
 # SmartWAN Manager  
 
-SmartWAN Manager is a local Docker-based control panel for SmartWAN and ASUS Dual WAN environments.   
-It provides tools for VPN and DMZ management, failover monitoring, diagnostics, backups, and router automation over SSH.
+This panel was created for ASUS RT-N18U running the unofficial gzenux Asuswrt-Merlin RT-N18U firmware version 386.3_3. 
+Most applied settings continue to operate on the router after the panel is stopped: 
+SmartWAN rules and presets, router-side watchdog and failover, managed VPN/DMZ policy, and Merlin hooks.
+
+Keep the container running for WAN country/location checks, Cloudflare DDNS, Tailscale access, persistent WAN-event archiving, the public status/network map, and Aurelka notifications.
 
 ![SmartWAN Manager panel screenshot](https://github.com/hattimon/SmartWAN-Manager/raw/main/docs/Panel_img.png)  
 
