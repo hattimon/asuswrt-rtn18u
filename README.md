@@ -1,13 +1,20 @@
+# The UNOFFICIAL Asuswrt-Merlin firmware for ASUS RT-N18U router.
 
-# TRY ALSO:
+This project is to make Asuswrt-Merlin firmware support for ASUS RT-N18U router.   
+The primary goal is to integrate the Asuswrt-Merlin features based on the codebase of official RT-N18U GPL release.   
+Please note that the firmware version does not directly map to official Asuswrt-Merlin release starting from 384.9.  
 
-# SmartWAN Manager  
+Please read the installation note before starting to use this firmware. Click one of titles below to expand the detail information for that title.
 
-This panel was created for ASUS RT-N18U running the unofficial gzenux Asuswrt-Merlin RT-N18U firmware version 386.3_3. 
-Most applied settings continue to operate on the router after the panel is stopped: 
-SmartWAN rules and presets, router-side watchdog and failover, managed VPN/DMZ policy, and Merlin hooks.
+![Asus Merlin panel screenshot](https://github.com/hattimon/SmartWAN-Manager/raw/main/docs/merlin_img.png)  
 
-Keep the container running for WAN country/location checks, Cloudflare DDNS, Tailscale access, persistent WAN-event archiving, the public status/network map, and Aurelka notifications.
+# TRY ALSO: SmartWAN Manager  
+
+This panel was created for ASUS RT-N18U running the unofficial gzenux Asuswrt-Merlin RT-N18U firmware version 386.3_3.   
+Most applied settings continue to operate on the router after the panel is stopped:   
+SmartWAN rules and presets, router-side watchdog and failover, managed VPN/DMZ policy, and Merlin hooks.  
+
+Keep the container running for WAN country/location checks, Cloudflare DDNS, Tailscale access, persistent WAN-event archiving, the public status/network map, and Aurelka notifications.  
 
 ![SmartWAN Manager panel screenshot](https://github.com/hattimon/SmartWAN-Manager/raw/main/docs/Panel_img.png)  
 
