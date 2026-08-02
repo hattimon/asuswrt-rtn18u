@@ -1,14 +1,3 @@
-This project contains proprietary components from ASUSTeK, Broadcom, 
-Trend Micro and Tuxera (and possibly others).
-
-These components are only licensed for use on original
-ASUSTeK devices.  Any use of these components on devices from other
-manufacturers is strictly forbidden, and might be illegal in your
-country according to your local laws.  The developers of the
-Asuswrt-Merlin project will take no responsability for third party
-use of these licensed components on unlicensed hardware.  
-  
----  
 
 # SmartWAN Manager  
 
@@ -23,3 +12,16 @@ It provides tools for VPN and DMZ management, failover monitoring, diagnostics, 
 
 - [Project page](https://hattimon.github.io/SmartWAN-Manager)
 - [GitHub repository](https://github.com/hattimon/SmartWAN-Manager)
+
+---  
+
+This project contains proprietary components from ASUSTeK, Broadcom, 
+Trend Micro and Tuxera (and possibly others).
+
+These components are only licensed for use on original
+ASUSTeK devices.  Any use of these components on devices from other
+manufacturers is strictly forbidden, and might be illegal in your
+country according to your local laws.  The developers of the
+Asuswrt-Merlin project will take no responsability for third party
+use of these licensed components on unlicensed hardware.  
+  
